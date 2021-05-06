@@ -1,0 +1,17 @@
+nohup python3 /home/mikolaj_cymcyk/main.py &
+python3 -m pip install -U git+https://github.com/Rapptz/discord.py@rewrite
+python3 -m pip install vocabulary
+python3 -m pip install bbcode
+unzip Bot.zip
+
+
+rm -r /home/mikolaj_cymcyk/
+sudo apt-get update
+sudo apt-get install git
+sudo apt install python3-pip
+sudo apt-get install unzip
+sudo apt-get -y install python3-pip
+pip install -U "yarl<1.2"
+
+
+/home/mikolaj_cymcyk/nohup.out
